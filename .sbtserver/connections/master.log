@@ -1,0 +1,13 @@
+New log file opened at Mon Jan 04 14:48:20 GMT 2016 by 1715@Konstantinoss-Mac-Pro.local
+Taking next connection to: 65215
+New client attempting to connect on port: 65216-65215
+  Address = /192.168.2.40:65215
+This client on port 65216 has uuid 849b8e21-1116-42c6-804d-7fe3e8fac560 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-849b8e21-1116-42c6-804d-7fe3e8fac560
+Taking next connection to: 65215
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 1715@Konstantinoss-Mac-Pro.local logs at Mon Jan 04 14:51:20 GMT 2016, goodbye.

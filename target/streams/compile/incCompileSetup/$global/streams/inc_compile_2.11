@@ -1,0 +1,375 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+20 items
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$1.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$load$1$$anonfun$apply$1.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$load$1$$anonfun$apply$2.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$load$1.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/Main$$anonfun$1.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/Main$.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/Main$delayedInit$body.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/Main.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/MonitorActor$$anonfun$receive$1.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/MonitorActor.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1$$anonfun$3.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1$$anonfun$4.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1$$anonfun$5.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anonfun$1.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anonfun$2.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$.class
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig.class
+binary dependencies:
+13 items
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> /Users/kostas/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/kostas/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.10.jar
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/kostas/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> /Users/kostas/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.10.jar
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> /Users/kostas/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.3.10.jar
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> /Users/kostas/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/kostas/.ivy2/cache/com.github.scopt/scopt_2.11/jars/scopt_2.11-3.2.0.jar
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/kostas/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/kostas/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> /Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> /Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+20 items
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> com.example.HostIP
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> com.example.HostIP$
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> com.example.HostIP$$anonfun$1
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> com.example.HostIP$$anonfun$load$1
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> com.example.HostIP$$anonfun$load$1$$anonfun$apply$1
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> com.example.HostIP$$anonfun$load$1$$anonfun$apply$2
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> com.example.Main
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> com.example.Main$
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> com.example.Main$$anonfun$1
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> com.example.Main$delayedInit$body
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> com.example.MonitorActor
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> com.example.MonitorActor$$anonfun$receive$1
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig$
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig$$anon$1
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig$$anon$1$$anonfun$3
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig$$anon$1$$anonfun$4
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig$$anon$1$$anonfun$5
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig$$anonfun$1
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com.example.NodeConfig$$anonfun$2
+used names:
+205 items
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> <init>
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> AnyRef
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> HostIP
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> JavaConversions
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> NetworkInterface
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> Option
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> Predef
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> String
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> collection
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> com
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> enumerationAsScalaIterator
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> equals
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> example
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> find
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> flatMap
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> getHostAddress
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> getInetAddresses
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> getName
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> getNetworkInterfaces
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> inet
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> interface
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> interfaces
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> isSiteLocalAddress
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> java
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> map
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> net
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> scala
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> <init>
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> ActorSystem
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> App
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> ClassTag
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> InetAddress
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> JavaConversions
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> Main
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> MonitorActor
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> NetworkInterface
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> NodeConfig
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> Predef
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> Props
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> StringContext
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> actor
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> actorOf
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> akka
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> apply
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> args
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> c
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> clusterName
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> collection
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> com
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> config
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> example
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> info
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> java
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> log
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> map
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> materializeClassTag
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> name
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> net
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> nodeConfig
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> package
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> parse
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> s
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> scala
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> system
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> typesafe
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> wrapRefArray
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> <init>
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> A1
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> Actor
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> ActorLogging
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> B1
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> Cluster
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> ClusterEvent
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> Function1
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> InitialStateAsEvents
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> MonitorActor
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> StringContext
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> Unit
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> actor
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> address
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> akka
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> apply
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> asInstanceOf
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> cluster
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> com
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> context
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> debug
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> example
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> info
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> isInstanceOf
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> log
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> member
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> roles
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> s
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> scala
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> self
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> subscribe
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> system
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> unchecked
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> unsubscribe
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> warning
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> !=
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> $anon
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> &&
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> :+
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> <init>
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ==
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> AnyRef
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Boolean
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> CLUSTER_NAME_PATH
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> CLUSTER_NODE
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Config
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ConfigFactory
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ConfigResolveOptions
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ConfigValueFactory
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> HostIP
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> JavaConversions
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> NodeConfig
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> None
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Option
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> OptionParser
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Predef
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Product
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Read
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> SEED_NODE
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ScalaRunTime
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Seq
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Serializable
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Statics
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> String
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> StringContext
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> Unit
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> _toString
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> action
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> anyHash
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> arg
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> args
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> asConfig
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> asInstanceOf
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> c
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> canBuildFrom
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> checkConfig
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> clusterName
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> collection
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> com
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> config
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> configPath
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> defaults
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> empty
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> eq
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> example
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> failure
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> finalizeHash
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> fromAnyRef
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> get
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> getClass
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> getClassLoader
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> getOrElse
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> getString
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> hasPath
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> head
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ip
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ipValue
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> isEmpty
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> isInstanceOf
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> isSeed
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> lengthCompare
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> load
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> map
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> mix
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> mkString
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> n
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> name
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ne
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> node
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> opt
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> optional
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> package
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> parse
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> parseResources
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> parseString
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> parser
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> resolve
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> runtime
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> s
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> scala
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> scopt
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> seedNodes
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> seedNodesString
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> setAllowUnresolved
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> stringRead
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> success
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> text
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> toString
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> typedProductIterator
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> typesafe
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> unapplySeq
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> unary_!
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> unbounded
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> unitRead
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> withFallback
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> withValue
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> x$2
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> x$3
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> ||
+product stamps:
+20 items
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$1.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$load$1$$anonfun$apply$1.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$load$1$$anonfun$apply$2.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$$anonfun$load$1.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP$.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/HostIP.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/Main$$anonfun$1.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/Main$.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/Main$delayedInit$body.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/Main.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/MonitorActor$$anonfun$receive$1.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/MonitorActor.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1$$anonfun$3.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1$$anonfun$4.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1$$anonfun$5.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anon$1.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anonfun$1.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$$anonfun$2.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig$.class -> lastModified(1451918919000)
+/Users/kostas/development/personal/akka-docker-cluster/target/scala-2.11/classes/com/example/NodeConfig.class -> lastModified(1451918919000)
+source stamps:
+4 items
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> hash(3e796e7a5dde7c5b13d0f22ebc7c84efdf2fe745)
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> hash(75f591084b7d5ce5eedb0ac3a269e45f3fd03477)
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> hash(fdae7246965c6109e3bfe6836c0a3334400801d2)
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> hash(cf8ddaf9ee8e4a2b9b1e6b23c41cd8bf5c0132ff)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1428689516000)
+/Users/kostas/.ivy2/cache/com.github.scopt/scopt_2.11/jars/scopt_2.11-3.2.0.jar -> lastModified(1397789858000)
+/Users/kostas/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.10.jar -> lastModified(1429768891000)
+/Users/kostas/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.3.10.jar -> lastModified(1429769169000)
+/Users/kostas/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> lastModified(1425034784000)
+/Users/kostas/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> lastModified(1425034784000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kostas/.ivy2/cache/com.github.scopt/scopt_2.11/jars/scopt_2.11-3.2.0.jar -> scopt.OptionParser
+/Users/kostas/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.10.jar -> akka.actor.ActorLogging
+/Users/kostas/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/jars/akka-cluster_2.11-2.3.10.jar -> akka.cluster.Cluster$
+/Users/kostas/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> com.typesafe.config.ConfigFactory
+/Users/kostas/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> scala.Serializable
+internal apis:
+4 items
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD+F+7jAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHcWT8x0AAZub3RpZnlzcQB+AAwL4CAAdAAEd2FpdHNxAH4ADPe0X/F0AA0kYXNJbnN0YW5jZU9mc3EAfgAMNuro53QABmVxdWFsc3NxAH4ADBIm6O90AAxhc0luc3RhbmNlT2ZzcQB+AAxclcb1dAAMc3luY2hyb25pemVkc3EAfgAMk/HuwXQADSRpc0luc3RhbmNlT2ZzcQB+AAylqVbudAAEbG9hZHNxAH4ADGem9VF0AAlub3RpZnlBbGxzcQB+AAzW0RIBdAAMaXNJbnN0YW5jZU9mc3EAfgAMPTnjb3QAAj09c3EAfgAMV9gzXHQABWNsb25lc3EAfgAMVLrci3QACHRvU3RyaW5nc3EAfgAMJyTvX3QAAiE9c3EAfgAMSCYo6HQACGdldENsYXNzc3EAfgAMOp473XQAAm5lc3EAfgAM8mQmAHQABkhvc3RJUHNxAH4ADPV38fV0AAJlcXNxAH4ADL5ieMB0AAIjI3NxAH4ADAIjbzZ0AAhmaW5hbGl6ZXNxAH4ADDFAv9R0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABJjb20uZXhhbXBsZS5Ib3N0SVB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AFkBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYHNxAH4AWQF1cQB+ADwAAAAAcHNxAH4AWQF1cQB+ADwAAAAAcHNxAH4AWQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHlzcQB+AGx0AANBbnlzcQB+AHBzcQB+AHN1cQB+AHYAAAACc3EAfgB4dAAFc2NhbGFxAH4Af3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALY29tLmV4YW1wbGVzcQB+AIl0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVINHHlwdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUC9Vc2Vycy9rb3N0YXMvZGV2ZWxvcG1lbnQvcGVyc29uYWwvYWtrYS1kb2NrZXItY2x1c3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUPnluel3efFsT0PIuvHyE798v50U=
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBc3ggcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCssd+Z0AAZub3RpZnlzcQB+AAwnl6DadAAEd2FpdHNxAH4ADNk8bIt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMXUEIy3QABmVxdWFsc3NxAH4ADMsmAYl0AAxhc0luc3RhbmNlT2ZzcQB+AAzndNZpdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAzQDk8xdAAMc3luY2hyb25pemVkc3EAfgAMofMH9HQADSRpc0luc3RhbmNlT2ZzcQB+AAy12ImtdAAEbWFpbnNxAH4ADALfYMp0AAlub3RpZnlBbGxzcQB+AAyhZlYAdAAMaXNJbnN0YW5jZU9mc3EAfgAM7y0RmnQAAj09c3EAfgAMGJQtSnQABWNsb25lc3EAfgAM7LbwnnQABE1haW5zcQB+AAyOQryldAAKbm9kZUNvbmZpZ3NxAH4ADGZKZg90AAh0b1N0cmluZ3NxAH4ADEQZ6xh0AARhcmdzc3EAfgAMH4ceqXQAAiE9c3EAfgAMT5GqXHQACGdldENsYXNzc3EAfgAM1pEK1HQAAm5lc3EAfgAMiOxUX3QAAmVxc3EAfgAMpJbRgHQAC2RlbGF5ZWRJbml0c3EAfgAMoufox3QAAiMjc3EAfgAMiXrENHQACGZpbmFsaXplc3EAfgAMlqyxxnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEGNvbS5leGFtcGxlLk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGMBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AanNxAH4AYwF1cQB+AEQAAAAAcHNxAH4AYwF1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHR4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCOc3EAfgBWAHEAfgAfdXEAfgBZAAAAAHNxAH4AgXQABFVuaXRxAH4Ah3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHR4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFx0AAVQbGFpbnEAfgAvc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCCWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBpc3EAfgCBdAAFQXJyYXlxAH4Ah3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCBdAAGU3RyaW5nc3EAfgCFc3EAfgCIdXEAfgCLAAAAA3NxAH4AjXQABGphdmFzcQB+AI10AARsYW5ncQB+AJJwc3EAfgBjAXVxAH4AqQAAAARzcQB+AIF0AANBcHBxAH4Ah3NxAH4AgXQAC0RlbGF5ZWRJbml0cQB+AIdzcQB+AIF0AAZPYmplY3RxAH4ArXNxAH4AgXQAA0FueXEAfgCHcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb20uZXhhbXBsZXNxAH4AwHQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUg0ceXB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABQL1VzZXJzL2tvc3Rhcy9kZXZlbG9wbWVudC9wZXJzb25hbC9ha2thLWRvY2tlci1jbHVzdGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR19ZEIS31c5e7bCsOiaeRfP9A0dw==
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDHcYihAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwApNuLHQABHNlbGZzcQB+AAtH8ZmOdAAHY29udGV4dHVxAH4ACQAAACVzcQB+AAsu0q+VdAAGbm90aWZ5c3EAfgALKcWKcXQAB1JlY2VpdmVzcQB+AAvz+ZtfdAAEd2FpdHNxAH4AC1LSP110AA0kYXNJbnN0YW5jZU9mc3EAfgALLbIAVnQABmVxdWFsc3NxAH4AC2L/vwF0AAxhc0luc3RhbmNlT2ZzcQB+AAsKkV4PdAAMc3luY2hyb25pemVkc3EAfgAL0bnP93QADSRpc0luc3RhbmNlT2ZzcQB+AAvKMmTodAAHcmVjZWl2ZXNxAH4ACw1iz+R0AApwcmVSZXN0YXJ0c3EAfgALw7t1VnQADWFyb3VuZFJlY2VpdmVzcQB+AAuM5E52dAALcG9zdFJlc3RhcnRzcQB+AAsa8j4wdAAIcG9zdFN0b3BzcQB+AAuv/H7HdAAJbm90aWZ5QWxsc3EAfgALUZMEhnQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALc4pg7HQADE1vbml0b3JBY3RvcnNxAH4AC0ogln50AAxpc0luc3RhbmNlT2ZzcQB+AAtceRosdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC4O0gSl0AA5hcm91bmRQb3N0U3RvcHNxAH4AC694/WR0AAdjbHVzdGVyc3EAfgALf84wjnQABjxpbml0PnNxAH4ACx5KNBJ0AAhwcmVTdGFydHNxAH4AC1+Im8Z0AAl1bmhhbmRsZWRzcQB+AAvPvt8KdAACPT1zcQB+AAtuTH3KdAAFY2xvbmVzcQB+AAtroRG7dAAGc2VuZGVyc3EAfgALbxPthHQACHRvU3RyaW5nc3EAfgALkl0WU3QAAiE9c3EAfgAL8gAlynQACGdldENsYXNzc3EAfgALehyXQXQAAm5lc3EAfgALE3ed03QAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4ACxLFzFh0AAJlcXNxAH4AC1ZjTP90AANsb2dzcQB+AAvjU/+RdAACIyNzcQB+AAv6vsFUdAAIZmluYWxpemVzcQB+AAtlsun6dAAIaGFzaENvZGVzcQB+AAspXjBjdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBleHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAYY29tLmV4YW1wbGUuTW9uaXRvckFjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AH0Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4AhHNxAH4AfQF1cQB+AGAAAAAAcHNxAH4AfQF1cQB+AGAAAAAAcHNxAH4AfQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIN0AAxBY3RvckxvZ2dpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AINzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AJx0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCdc3EAfgCQdAAFQWN0b3JxAH4AlnNxAH4AkHQABk9iamVjdHNxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJx0AARqYXZhc3EAfgCcdAAEbGFuZ3EAfgCjc3EAfgCQdAADQW55c3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHQABXNjYWxhcQB+AKNwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAC2NvbS5leGFtcGxlc3EAfgC4dAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFSDRx5cHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFAvVXNlcnMva29zdGFzL2RldmVsb3BtZW50L3BlcnNvbmFsL2Fra2EtZG9ja2VyLWNsdXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFP2uckaWXGEJ47/mg2wKMzRACAHS
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCI2txVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAALXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMHLzBF0AAZub3RpZnlzcQB+AAx/qnlgdAAHdW5hcHBseXNxAH4ADFQFJUd0AAR3YWl0c3EAfgAMSl7mcHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMiusGhHQADSRhc0luc3RhbmNlT2ZzcQB+AAwU7w2zdAAQPGluaXQ+JGRlZmF1bHQkMXNxAH4ADNAH+c90AAxwcm9kdWN0QXJpdHlzcQB+AAyhtSgwdAAGZXF1YWxzc3EAfgAM8g9EnHQACk5vZGVDb25maWdzcQB+AAzep9tNdAAMYXNJbnN0YW5jZU9mc3EAfgAMJ0+B53QAEUNMVVNURVJfTkFNRV9QQVRIc3EAfgAMQFTRtHQADHN5bmNocm9uaXplZHNxAH4ADKwCdjt0AA0kaXNJbnN0YW5jZU9mc3EAfgAMSIxe+3QADENMVVNURVJfTk9ERXNxAH4ADGJxHqN0AAZpc1NlZWRzcQB+AAz9yXoqdAAIY2FuRXF1YWxzcQB+AAwQZBwqdAAGY29uZmlnc3EAfgAML86TJXQADXByb2R1Y3RQcmVmaXhzcQB+AAx7NXjQdAAJbm90aWZ5QWxsc3EAfgAM9Q/V/XQAC3JlYWRSZXNvbHZlc3EAfgAMoq3t8HQADGlzSW5zdGFuY2VPZnNxAH4ADEsVk9p0AAhhc0NvbmZpZ3NxAH4ADKhbJnR0AAY8aW5pdD5zcQB+AAykIOMndAAJc2VlZE5vZGVzc3EAfgAMdqVeanQAD2FwcGx5JGRlZmF1bHQkMnNxAH4ADP1mAQN0AAVhcHBseXNxAH4ADJ/f+Sx0AAVwYXJzZXNxAH4ADP99ItJ0AAI9PXNxAH4ADOCXKNB0AAVjbG9uZXNxAH4ADB84kS90AARjb3B5c3EAfgAMUJ+h8XQAD2FwcGx5JGRlZmF1bHQkMXNxAH4ADIl+z8t0AAh0b1N0cmluZ3NxAH4ADGc36UF0AAIhPXNxAH4ADO2zIVB0AAhnZXRDbGFzc3NxAH4ADH1g/uN0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADM46Hp50AAlTRUVEX05PREVzcQB+AAwkyHFNdAALY2x1c3Rlck5hbWVzcQB+AAy3NCIudAACbmVzcQB+AAxCoX3+dAAQPGluaXQ+JGRlZmF1bHQkMnNxAH4ADJSr4lZ0AAJlcXNxAH4ADEeFqCh0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyToq/edAACIyNzcQB+AAxLS15+dAAIZmluYWxpemVzcQB+AAybN5vgdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxaP0u+dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBxeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAWY29tLmV4YW1wbGUuTm9kZUNvbmZpZ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCJAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBxTAAJaW5oZXJpdGVkcQB+AHFMAAdwYXJlbnRzcQB+AHF4cQB+AJBzcQB+AIkBdXEAfgBsAAAAAHBzcQB+AIkBdXEAfgBsAAAAAHBzcQB+AIkBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCPdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCPc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCpc3EAfgCccQB+AJ9zcQB+AKBzcQB+AKN1cQB+AKYAAAADc3EAfgCodAAEamF2YXNxAH4AqHQAAmlvcQB+AK1zcQB+AJx0AAdQcm9kdWN0cQB+AKJzcQB+AJx0AAZFcXVhbHNxAH4AonNxAH4AnHQABk9iamVjdHNxAH4AoHNxAH4Ao3VxAH4ApgAAAANzcQB+AKhxAH4As3NxAH4AqHQABGxhbmdxAH4ArXNxAH4AnHQAA0FueXEAfgCicHBzcQB+AG5xAH4Ae3VxAH4AfAAAAABzcQB+AH4AdAAWY29tLmV4YW1wbGUuTm9kZUNvbmZpZ3VxAH4AgQAAAAB+cQB+AIN0AAZNb2R1bGV1cQB+AIcAAAAAc3EAfgCJAXEAfgCRcHNxAH4AiQFzcQB+AJNzcQB+AIkBdXEAfgBsAAAAAHBzcQB+AIkBdXEAfgBsAAAAAHBzcQB+AIkBdXEAfgCaAAAABHNxAH4AnHEAfgCfc3EAfgCgc3EAfgCjdXEAfgCmAAAAAnNxAH4AqHEAfgCrcQB+AK1zcQB+AJxxAH4An3NxAH4AoHNxAH4Ao3VxAH4ApgAAAANzcQB+AKhxAH4As3NxAH4AqHQAAmlvcQB+AK1zcQB+AJxxAH4Au3NxAH4AoHNxAH4Ao3VxAH4ApgAAAANzcQB+AKhxAH4As3NxAH4AqHEAfgDBcQB+AK1zcQB+AJxxAH4Aw3EAfgDWcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb20uZXhhbXBsZXNxAH4A6nQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUg0ceXB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABQL1VzZXJzL2tvc3Rhcy9kZXZlbG9wbWVudC9wZXJzb25hbC9ha2thLWRvY2tlci1jbHVzdGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTPjdr57o5KK5seayPEHNi/XAEy/w==
+external apis:
+0 items
+source infos:
+4 items
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/HostIP.scala -> 
+AAAAAAAAAAA=
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/Main.scala -> 
+AAAAAAAAAAA=
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/MonitorActor.scala -> 
+AAAAAAAAAAA=
+/Users/kostas/development/personal/akka-docker-cluster/src/main/scala/com/example/NodeConfig.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUgz+0y91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9Vc2Vycy9rb3N0YXMvZGV2ZWxvcG1lbnQvcGVyc29uYWwvYWtrYS1kb2NrZXItY2x1c3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUg0ceXB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9Vc2Vycy9rb3N0YXMvZGV2ZWxvcG1lbnQvcGVyc29uYWwvYWtrYS1kb2NrZXItY2x1c3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
